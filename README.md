@@ -5,7 +5,7 @@
 - 📫 Reach me jpsuomalainen87@gmail.com.<br>-
 
 "The only way to do great work is to love what you do." - Steve Jobs
-<br>-
+<br>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Juha-Pekka Suomalainen) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jpsuomalainen) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/juha-pekka-suomalainen-bb8633263) 
