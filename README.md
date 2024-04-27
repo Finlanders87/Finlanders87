@@ -1,4 +1,4 @@
-# 💫 About Me:
+💫 # Hi there! 👋
 - 🔭 I’m currently working on Kesko Oy.<br>
 - 🌱 I’m currently learning React.<br>
 - 👯 I’m looking for doing something whit webside updates.<br>
