@@ -15,7 +15,10 @@
 - 📫 Reach me jpsuomalainen87@gmail.com.<br>
 <br>
 <br>
-"The only way to do great work is to love what you do." - Steve Jobs
+
+**"Excellence is born of passion; embrace what you love, and beauty will grace your work."** - Steve Jobs
+
+
 <br>
 <br>
 <br>
