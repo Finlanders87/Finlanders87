@@ -1,4 +1,14 @@
+
+<img src="https://media.giphy.com/media/ftGjolbyVVwUsfw5JR/giphy.gif" alt="GIF 2" align="top" width="100%" height="200">
+
+
+
+
 ## 💫 Hi there! 👋
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="GIF" align="right" width="480" height="360"> <br>
+
+
 - 🔭 I’m currently working on Kesko Oy.<br>
 - 🌱 I’m currently learning React.<br>
 - 👯 I’m looking for doing something whit webside updates.<br>
