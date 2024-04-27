@@ -1,8 +1,8 @@
 # 💫 About Me:
-- 🔭 I’m currently working on Kesko Oy.<br>-
-- 🌱 I’m currently learning React.<br>-
-- 👯 I’m looking for doing something whit webside updates.<br>-
-- 📫 Reach me jpsuomalainen87@gmail.com.<br>-
+- 🔭 I’m currently working on Kesko Oy.<br>
+- 🌱 I’m currently learning React.<br>
+- 👯 I’m looking for doing something whit webside updates.<br>
+- 📫 Reach me jpsuomalainen87@gmail.com.<br>
 
 "The only way to do great work is to love what you do." - Steve Jobs
 <br>
