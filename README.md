@@ -13,8 +13,15 @@
 - 🌱 I’m currently learning React.<br>
 - 👯 I’m looking for doing something whit webside updates.<br>
 - 📫 Reach me jpsuomalainen87@gmail.com.<br>
-
+<br>
+<br>
 "The only way to do great work is to love what you do." - Steve Jobs
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 
 ## 🌐 Socials:
