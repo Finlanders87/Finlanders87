@@ -2,7 +2,7 @@
 <img src="https://media.giphy.com/media/ftGjolbyVVwUsfw5JR/giphy.gif" alt="GIF 2" align="top" width="100%" height="200">
 
 
-## 💫 Hi there! 👋 
+## 💫 Hi there! 👋 self taught
 
 
 
